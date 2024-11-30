@@ -21,7 +21,11 @@
 - 🕷️ Web Scraping Solutions
 - 🔧 System Administration
 - 🚀 Full Stack Development
-- 🧠 AI-Assisted Development (Claude)
+
+## 🤝 Development Approach
+- 🧠 Leveraging AI tools (Claude) for enhanced productivity
+- 🔄 Combining human creativity with AI assistance
+- ⚡ Focus on efficient, maintainable code
 
 ## 🌱 Currently Learning
 - Advanced Rust patterns
