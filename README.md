@@ -1,6 +1,7 @@
 # 👋 Hello, Fellow Tech Enthusiasts, I'm Carlos!
 
 ## 🛠 Tech Stack & Tools
+![Claude](https://img.shields.io/badge/-Claude%20AI-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0xMiA4djgiLz48cGF0aCBkPSJNOCAxMmg4Ii8+PC9zdmc+)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -20,6 +21,7 @@
 - 🕷️ Web Scraping Solutions
 - 🔧 System Administration
 - 🚀 Full Stack Development
+- 🧠 AI-Assisted Development (Claude)
 
 ## 🌱 Currently Learning
 - Advanced Rust patterns
